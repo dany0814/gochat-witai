@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/dany0814/gochat-witai/cmd/bootstrap"
+	"gochat-witai/cmd/bootstrap"
 )
 
 func main() {

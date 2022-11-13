@@ -3,9 +3,9 @@ package bootstrap
 import (
 	"context"
 
-	"github.com/dany0814/gochat-witai/pkg/config"
+	"gochat-witai/pkg/config"
 
-	server "github.com/dany0814/gochat-witai/internal/platform"
+	server "gochat-witai/internal/platform"
 )
 
 func Run() error {
